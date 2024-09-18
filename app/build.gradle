@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.traveldreams.prueba001'
+    namespace 'com.example.prueba001'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.traveldreams.prueba001"
+        applicationId "com.example.prueba001"
         minSdk 33
         targetSdk 34
         versionCode 1
